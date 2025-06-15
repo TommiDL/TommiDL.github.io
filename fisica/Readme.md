@@ -15,7 +15,7 @@ Corso sulla meccanica classica trattata con il formalismo lagrangiano ed Hamilto
 
 ## Meccanica quantistica
 Meccanica quantistica su sistemi chiusi e isolati.
-- [Appunti del corso](meccanica_quantistica/QM_appunti_caracciolo.pdf) 
+- [Appunti del corso](meccanica_quantistica/QM_appunti caracciolo.pdf) 
 
 ## Teoria dei sistemi a molti corpi
 Teoria dei sistemi a molte particelle a temperatura nulla studiati con Propagatori (funzioni di green) ed i diagrammi di Feynmann. Teoria della risposta lineare. Quasi-particelle.
